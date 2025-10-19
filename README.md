@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # 👋 Hi, I'm KutologoJM
 
 I'm a **Python backend engineer**. 
-I build clean, efficient, and maintainable backend systems using **Python**, **Django**, and **Tailwind CSS**.
+I try my best to build clean, efficient, and maintainable backend systems using **Python**, **Django**, and **Tailwind CSS**.
 
 ---
 

@@ -23,7 +23,7 @@ I try my best to build clean, efficient, and maintainable backend systems using 
 
 ### 🧠 About Me
 - 💻 Currently focusing on **API development** and **backend architecture**
-- ⚙️ Experienced with **Python**, **Django**, **PostgreSQL**, **Docker**, and **Tailwind**
+- ⚙️ Experienced with **Python**, **Django**, **PostgreSQL** and **Tailwind**
 - 🌱 Learning more about **async programming**, **DevOps**, and **software design patterns**
 - 🧩 My goal: to become a solo Django developer — building complete, scalable systems
 
@@ -48,7 +48,7 @@ I try my best to build clean, efficient, and maintainable backend systems using 
 | **Backend** | Python · Django |
 | **Frontend** | HTML · CSS · Tailwind CSS |
 | **Database** | PostgreSQL · SQLite |
-| **DevOps / Tools** | Docker · GitHub Actions · Linux |
+| **DevOps / Tools** |  GitHub Actions · Linux |
 | **Other** | REST APIs · CI/CD · Pytest |
 
 ---
